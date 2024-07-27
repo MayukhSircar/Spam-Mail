@@ -3,10 +3,10 @@ Spam Mail Classifier Project:
 Introduction:
 This project aims to build a spam mail classifier using an Artificial Neural Network (ANN). The classifier will identify whether an email is spam or not. The dataset used in this project is the Spam CSV dataset from Kaggle.
 
-Dataset
+Dataset:
 The dataset can be found on Kaggle at Spam CSV.
 
-Requirements
+Requirements:
 Python 3.x
 Jupyter Notebook or any Python IDE
 Libraries:
